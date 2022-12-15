@@ -8,6 +8,6 @@ The Free and Open Artifact Development Project is a not-for-profit creation proj
 
 Creation has a wide range. It includes but is not limited to programs, machinery, artwork, literature, industry standards.
 
-如果你想要了解本项目的相关资料，比如我们已经取得的成果和我们怎么运作，请查看我们Github上的FOADP-Description项目。它包含了工作流程、设计理念、项目列表、日程安排、讨论方式等有关于本项目的一切。
+如果你想要了解本项目的相关资料，比如我们已经取得的成果和我们怎么运作，请查看我们Github上的FOADProject项目。它包含了工作流程、设计理念、项目列表、日程安排、讨论方式等有关于本项目的一切。
 
 If you want to know more about this project, such as what we have achieved and how we work, please check our FOADP-Description project on Github. It contains everything about the project, such as workflow, design concept, project list, schedule, discussion methods, etc.
